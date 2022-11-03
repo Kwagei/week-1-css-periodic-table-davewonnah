@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.aa{
+    background-color: #FFFECC;
+    cursor: pointer;
+}
+.ab{
+    background-color: #FFE4C7;
+}
+.a{
+    background-color: #FFD2CF;
+    cursor: grabbing;font-size: large;
+}
+.b{
+    background-color: #D2D3FF;
+}
+.c{
+    background-color: #C6DEFF;
+}
+.d{
+    background-color: #FFFECC;
+}
+.e{
+    background-color: #C9FEFF;
+}
+.f{
+    background-color: #E3EFC7;
+}
+.g{
+    background-color: #CFFDC9;
+}
